@@ -13,7 +13,7 @@ Before using File Renamer, ensure that you have Go installed on your system.
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/file-renamer.git
+git clone https://github.com/EdwardBKTay/file-renamer.git
 ```
 
 Navigate to the project directory:
